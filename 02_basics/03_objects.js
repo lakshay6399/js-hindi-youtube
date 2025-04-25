@@ -1,5 +1,8 @@
 // singleton 
 
+
+
+
 // object literals
 
 const mySym = Symbol("key1")
