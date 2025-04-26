@@ -38,7 +38,7 @@ const balance = 1000
 //     console.log("less than 900");
     
 // }else {
-//  console.log("less than 1200");
+ console.log("less than 1200");
     
 // }
 
