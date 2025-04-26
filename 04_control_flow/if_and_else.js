@@ -49,11 +49,11 @@ const loggedInFromEmail = true
 
 
 if (isUserloggedIn && debitCard ) {
-    console.log("allow to courses");
+    // console.log("allow to courses");
 }
 
 if (loggedInFromGoogle || loggedInFromEmail) {
-    console.log("userloggedIn");
+    // console.log("userloggedIn");
     
 }
 
